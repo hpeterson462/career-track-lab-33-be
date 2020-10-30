@@ -6,4 +6,4 @@ CREATE TABLE routes (
   name TEXT NOT NULL,
   rating TEXT NOT NULL,
   notes TEXT NOT NULL
-)
+);
